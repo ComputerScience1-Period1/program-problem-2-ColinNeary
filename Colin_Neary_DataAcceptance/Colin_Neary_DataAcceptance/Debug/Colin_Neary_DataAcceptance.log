@@ -1,0 +1,4 @@
+﻿  DataAcceptance.cpp
+c:\users\230773\vs projects\colin_neary_dataacceptance\colin_neary_dataacceptance\dataacceptance.cpp(36): warning C4553: '==': operator has no effect; did you intend '='?
+  Colin_Neary_DataAcceptance.vcxproj -> C:\Users\230773\VS Projects\Colin_Neary_DataAcceptance\Debug\Colin_Neary_DataAcceptance.exe
+  Colin_Neary_DataAcceptance.vcxproj -> C:\Users\230773\VS Projects\Colin_Neary_DataAcceptance\Debug\Colin_Neary_DataAcceptance.pdb (Partial PDB)
